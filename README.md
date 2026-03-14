@@ -1,14 +1,14 @@
 ### I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,linux" />
+    <img src="https://skillicons.dev/icons?i=,IntelliJwebstorm,linux" />
   </a>
 </p>
 
 ### I can code with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
   </a>
 </p>
 
